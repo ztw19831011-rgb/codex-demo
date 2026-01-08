@@ -1,0 +1,34 @@
+Metadata-Version: 2.4
+Name: codex-demo
+Version: 0.1.0
+Summary: Codex CLI demo project
+Author: ztw19831011-rgb
+License: MIT
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+
+# Project
+
+Short description here.
+
+## Setup
+
+Describe setup steps here.
+
+## Usage
+
+Describe usage here.
+
+## Development
+
+- `scripts/` for helper scripts
+- `src/` for source
+- `tests/` for tests
+- `docs/` for documentation
+
+## Status
+
+This project was initialized using Codex CLI.
+It currently provides a minimal Python-based CLI entry point
+that prints basic project information.
+

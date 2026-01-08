@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/codex_demo/__init__.py
+src/codex_demo/cli.py
+src/codex_demo.egg-info/PKG-INFO
+src/codex_demo.egg-info/SOURCES.txt
+src/codex_demo.egg-info/dependency_links.txt
+src/codex_demo.egg-info/entry_points.txt
+src/codex_demo.egg-info/top_level.txt
