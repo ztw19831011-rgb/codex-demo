@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# Build output
+bin/
+obj/
+dist/
+build/
+out/
+
+# Dependencies (language-agnostic)
+node_modules/
+vendor/
+
+# Coverage
+coverage/
